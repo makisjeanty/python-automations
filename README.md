@@ -1,5 +1,9 @@
 # 🐍 Python Automations
 
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![CLI](https://img.shields.io/badge/type-CLI%20tool-green.svg)
+![Status](https://img.shields.io/badge/status-production--ready-success.svg)
+
 Collection of **practical, production-ready** automation scripts focused on real productivity: file management, API consumption, and automated email reporting.
 
 ## 🎯 Objective
